@@ -3,4 +3,6 @@ uvicorn
 websockets
 twilio
 python-dotenv
-flask
+Flask
+requests
+logging
